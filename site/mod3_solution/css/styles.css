@@ -1,0 +1,80 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #F5F5F5;
+  font-family: Arial, sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color:   #787878;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  }
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Arial', serif;
+  color: #000;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: ;
+  line-height: .75;
+  vertical-align: left;
+  text-align: left;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  background: #FFFFFF;
+  color: #181818;
+  text-align: center;
+  border: solid;
+}
+
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+/*
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}*/
+/* END HEADER */
+
+/* Website Main Content */
+#Main {
+ text-align: center; 
+}
+
+#Main h1 {
+  padding-bottom: 20px;
+}
+
+#Main #Box {
+  background-color:   #C0C0C0;
+  padding-bottom: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+#Main p {
+  background-color:   #C0C0C0;
+}
+
+
+/* END Website Main Content */
